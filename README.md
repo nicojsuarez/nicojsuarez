@@ -1,7 +1,9 @@
+
+
+#### Hola! Mi nombre es Nicolás Suarez 👋
+
 ## Freelance in Data analityc 
 
-### Hola! Mi nombre es Nicolás Suarez 👋
-## Freelance in Data analityc 
 - 🌱 I’m currently learning about git & githhub
 - 👯 I’m looking to collaborate on Henry
 - 🤔 I’m looking for help with Maching lerning
