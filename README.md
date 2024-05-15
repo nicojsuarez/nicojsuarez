@@ -4,6 +4,8 @@
 
 ## Freelance in Data analytics 
 
+https://aleen42.github.io/badges/src/mitsubishi.svg
+
 - 🌱 I’m currently learning about git & githhub
 - 👯 I’m looking to collaborate on Henry
 - 🤔 I’m looking for help with Maching lerning
