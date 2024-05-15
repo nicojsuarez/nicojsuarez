@@ -2,12 +2,12 @@
 
 # Hola! Mi nombre es Nicolás Suarez 👋
 
-## Freelance in Data analityc 
+## Freelance in Data analytics 
 
 - 🌱 I’m currently learning about git & githhub
 - 👯 I’m looking to collaborate on Henry
 - 🤔 I’m looking for help with Maching lerning
-- 💬 Ask me about My life in this new world
+- 💬 Ask me about DOOKER 🐋
 - 📫 How to reach me: 📱+57 3052621201
 - 😄 Pronouns: wizard suarez
 <!--
